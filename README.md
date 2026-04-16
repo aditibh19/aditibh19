@@ -47,14 +47,17 @@
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/aditi-bhalla-279a6b291" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" />
+<p align="center">
+  <a href="https://linkedin.com/in/aditi-bhalla-279a6b291" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" />
   </a>
-  <a href="https://www.hackerrank.com/bhallaaditi19" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="30" />
+  <a href="https://www.hackerrank.com/bhallaaditi19" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="30" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/bhallaajwgo" target="blank">
+  <a href="https://auth.geeksforgeeks.org/user/bhallaajwgo" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="30" />
+  </a>
+</p>
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" height="30" />
   </a>
 </p>
