@@ -1,57 +1,221 @@
-<h1 align="center">Hi 👋, I'm Aditi Bhalla</h1>
-<h3 align="center">Backend & Cloud-Native Systems | Docker · Kubernetes · Node.js</h3>
+<div align="center">
+
+# Hi 👋, I'm Aditi Bhalla
+
+### Backend Engineer • Cloud-Native Enthusiast • DevOps Learner
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Backend+Developer;Cloud-Native+Enthusiast;Docker+%7C+Kubernetes+%7C+Node.js;Building+Scalable+Applications;Always+Learning+Something+New" alt="Typing SVG" />
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=aditibh19&label=Profile+Views&style=for-the-badge&color=0e75b6)
+
+</div>
+
+---
+
+# 👩‍💻 About Me
+
+- 🎓 B.Tech Information Technology Student
+- 💻 Passionate about Backend Development and Cloud Computing
+- 🚀 Building scalable REST APIs and backend systems using Node.js and Express
+- 🐳 Exploring Docker, Kubernetes, AWS, and DevOps practices
+- 🌐 Interested in Distributed Systems, Microservices, and System Design
+- 📚 Continuously improving my Data Structures & Algorithms skills
+- 🤝 Open to collaborating on Backend, Cloud, and Open Source projects
+
+---
+
+# 🌱 Currently Learning
+
+- Kubernetes
+- AWS Cloud
+- CI/CD Pipelines
+- Microservices Architecture
+- Distributed Systems
+- System Design
+- DevOps Best Practices
+
+---
+
+# 💼 Looking For
+
+- Backend Development Opportunities
+- Software Engineering Internships / Full-Time Roles
+- Open Source Contributions
+- Cloud & DevOps Projects
+- Backend Collaboration
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman,vscode,linux" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aditibh19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditibh19&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=aditibh19&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditibh19&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aditibh19&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+# 🧠 Coding Profiles
 
 <p align="center">
-I'm a B.Tech Information Technology student focused on backend and cloud-native systems. My interest lies in how applications are structured, deployed, and kept running reliably — not just how they're built. I work primarily with Docker and Kubernetes for containerization and deployment, alongside Node.js, Express, and REST API design for backend development. I'm currently deepening my understanding of distributed systems, cloud infrastructure, and DevOps principles, with a particular interest in microservices architecture and system reliability. Alongside project work, I focus on strengthening my fundamentals in data structures, algorithms, operating systems, and networking, since I believe solid fundamentals matter more in the long run than familiarity with any single tool.
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/bhallaajwgo/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/aditi1905">
+<img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/bhallaaditi19">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/@bhallaaditi19">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerearth.com/bhallaaditi19">
+<img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge"/>
+</a>
+
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditibh19" alt="aditibh19" /></a> </p>
+---
 
-- 🌱 I'm currently learning **Kubernetes, cloud infrastructure, and DevOps principles**
-- 👯 I'm looking to collaborate on **backend and cloud/infrastructure engineering projects**
-- 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-aditi-bhallas-projects.vercel.app/)
-- 💬 Ask me about **backend systems, containerization, or distributed systems** — happy to connect if you're working on platform tooling
-- 📫 How to reach me: **bhallaaditi19@gmail.com**
-- ⚡ Fun fact: **I enjoy debugging distributed systems more than building UIs**
+# 🌐 Connect With Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aditi-bhalla-279a6b291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi-bhalla-279a6b291" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bhallaaditi19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhallaaditi19" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@bhallaaditi19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bhallaaditi19" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/aditi1905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aditi1905" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/bhallaaditi19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="bhallaaditi19" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bhallaajwgo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhallaajwgo" height="30" width="40" /></a>
+<p align="center">
+
+<a href="mailto:bhallaaditi19@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+
+<a href="https://github.com/aditibh19">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aditi-bhalla-279a6b291">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+
+<a href="https://portfolio-aditi-bhallas-projects.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-</p>
+---
 
-<!-- Note: github-readme-stats.vercel.app's public instance has been unreliable (rate limits / paused deployments) as of 2026. If the stats card below doesn't render, consider self-hosting via the GitHub Actions workflow described in https://github.com/anuraghazra/github-readme-stats -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aditibh19&show_icons=true&locale=en" alt="aditibh19" /></p>
+# 🎯 Areas of Interest
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=aditibh19" alt="aditibh19" /></p>
+- Backend Engineering
+- Cloud Computing
+- Distributed Systems
+- REST API Development
+- Microservices
+- Docker
+- Kubernetes
+- DevOps
+- Database Design
+- System Design
+- Operating Systems
+- Computer Networks
+
+---
+
+# 📖 Favorite Quote
+
+> *"First, solve the problem. Then, write the code."*  
+> **— John Johnson**
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+If you like my work, consider starring my repositories.
+
+### Happy Coding! 🚀
+
+</div>
