@@ -88,16 +88,20 @@
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aditibh19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditibh19&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aditibh19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditibh19&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
+</p>
 ---
 
 # 🔥 GitHub Streak
@@ -115,16 +119,6 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditibh19&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aditibh19&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -205,8 +199,8 @@
 
 # 📖 Favorite Quote
 
-> *"First, solve the problem. Then, write the code."*  
-> **— John Johnson**
+> *"The best error message is the one that never shows up."*  
+> — Thomas Fuchs
 
 ---
 
