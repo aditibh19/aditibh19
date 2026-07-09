@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Backend+Developer;Cloud-Native+Enthusiast;Docker+%7C+Kubernetes+%7C+Node.js;Building+Scalable+Applications;Always+Learning+Something+New" alt="Typing SVG" />
 
-<br>
-
-
-
 </div>
 
 ---
@@ -88,21 +84,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aditibh19&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditibh19&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -131,7 +112,7 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/bhallaajwgo/">
+<a href="https://www.geeksforgeeks.org/user/bhallaajwgo/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
@@ -199,7 +180,7 @@
 # 📖 Favorite Quote
 
 > *"The best error message is the one that never shows up."*  
-> — Thomas Fuchs
+> **— Thomas Fuchs**
 
 ---
 
@@ -208,6 +189,5 @@
 ## ⭐ Thanks for visiting my profile!
 
 If you like my work, consider starring my repositories.
-
 
 </div>
