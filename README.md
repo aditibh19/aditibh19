@@ -51,6 +51,7 @@ I'm a B.Tech Information Technology student focused on backend and cloud-native 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
+<!-- Note: github-readme-stats.vercel.app's public instance has been unreliable (rate limits / paused deployments) as of 2026. If the stats card below doesn't render, consider self-hosting via the GitHub Actions workflow described in https://github.com/anuraghazra/github-readme-stats -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aditibh19&show_icons=true&locale=en" alt="aditibh19" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditibh19&" alt="aditibh19" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=aditibh19" alt="aditibh19" /></p>
