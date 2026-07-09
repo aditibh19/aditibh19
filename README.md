@@ -8,7 +8,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=aditibh19&label=Profile+Views&style=for-the-badge&color=0e75b6)
+
 
 </div>
 
