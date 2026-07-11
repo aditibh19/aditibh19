@@ -21,19 +21,6 @@
 - 🤝 Open to collaborating on Backend, Cloud, and Open Source projects
 
 ---
-
-# 🌱 Currently Learning
-
-- Kubernetes
-- AWS Cloud
-- CI/CD Pipelines
-- Microservices Architecture
-- Distributed Systems
-- System Design
-- DevOps Best Practices
-
----
-
 # 💼 Looking For
 
 - Backend Development Opportunities
