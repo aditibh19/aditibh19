@@ -147,34 +147,4 @@
 
 ---
 
-# 🎯 Areas of Interest
 
-- Backend Engineering
-- Cloud Computing
-- Distributed Systems
-- REST API Development
-- Microservices
-- Docker
-- Kubernetes
-- DevOps
-- Database Design
-- System Design
-- Operating Systems
-- Computer Networks
-
----
-
-# 📖 Favorite Quote
-
-> *"The best error message is the one that never shows up."*  
-> **— Thomas Fuchs**
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-If you like my work, consider starring my repositories.
-
-</div>
